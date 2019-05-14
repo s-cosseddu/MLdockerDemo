@@ -1,0 +1,7 @@
+#######
+# emacs
+*#*
+auto/
+*~
+vmdpipe.egg-info/
+__pycache__/
